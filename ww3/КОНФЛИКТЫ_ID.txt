@@ -1,0 +1,259 @@
+Один номер у двух предметов разных модов. В <id>.png — тот, кого выбирает плагин;
+остальные лежат в dup/<id>_2.png — их можно поставить стволу вручную (Image="…" или /bte image).
+
+4001: CA_Admin_Pack  (вторые: CA_Ghillie_Vest) — по плагину
+4002: CA_Ghillie_Top_Beige  (вторые: CA_Ghillie_Top) — по плагину
+4004: CA_Ghillie_Hood_Beige  (вторые: CA_Ghillie_Hood) — по плагину
+4009: CA_Raven  (вторые: CA_M24) — по плагину
+4010: CA_Winchester_5  (вторые: CA_M24_8) — по плагину
+4012: CA_Fissure  (вторые: CA_M4) — по плагину
+4030: CA_Matrix  (вторые: CA_XM_PDW) — по плагину
+4031: CA_Military_Poly_30  (вторые: CA_Military_30) — по плагину
+4032: CA_Czar  (вторые: CA_Korth) — по плагину
+4033: CA_Winchester_10  (вторые: CA_Korth_6) — по плагину
+4036: CA_Swat_Vest_Empty  (вторые: CA_Swat_Vest_0) — по плагину
+4037: CA_Swat_Vest_Pouches  (вторые: CA_Swat_Vest_1) — по плагину
+4038: CA_Swat_Vest_Cargo  (вторые: CA_Swat_Vest_2) — по плагину
+4052: CA_Mili_Vest_0_Empty  (вторые: CA_Mili_Vest_0) — по плагину
+4053: CA_Mili_Vest_0_Pouches  (вторые: CA_Mili_Vest_1) — по плагину
+4054: CA_Mili_Vest_0_Cargo  (вторые: CA_Mili_Vest_2) — по плагину
+4055: CA_Mili_Vest_1_Empty  (вторые: CA_Mili_Vest_3) — по плагину
+4056: CA_Mili_Vest_1_Pouches  (вторые: CA_Mili_Vest_4) — по плагину
+4057: CA_Mili_Vest_1_Cargo  (вторые: CA_Mili_Vest_5) — по плагину
+4062: CA_Tacit  (вторые: CA_CS5) — по плагину
+4063: CA_Tacit_5  (вторые: CA_CS5_6) — по плагину
+4067: CA_Tacit_Suppressor  (вторые: CA_CS5_Supressor) — по плагину
+4068: CA_Marksman_25  (вторые: CA_Marksman_Magazine) — по плагину
+4069: CA_Rackstack  (вторые: CA_APC308) — по плагину
+4072: CA_Phantom  (вторые: CA_SCAR20) — по плагину
+4073: CA_Dot_Sight_2_Venus  (вторые: CA_Reflex) — по плагину
+4074: CA_Porto  (вторые: CA_Tavor) — по плагину
+4076: CA_Rebel  (вторые: CA_Galil) — по плагину
+4088: CA_Merc_Vest_Empty  (вторые: CA_Merc_Vest_0) — по плагину
+4089: CA_Merc_Vest_Pouches  (вторые: CA_Merc_Vest_1) — по плагину
+4090: CA_Merc_Vest_Cargo  (вторые: CA_Merc_Vest_2) — по плагину
+4092: CA_Gasmask_Bio_Broken  (вторые: CA_Biohazard_Mask) — по плагину
+4093: CA_Biohazard_Broken_Top  (вторые: CA_Biohazard_Top) — по плагину
+4094: CA_Biohazard_Broken_Bottom  (вторые: CA_Biohazard_Bottom) — по плагину
+4096: CA_Esfalka_10  (вторые: CA_SV_7) — по плагину
+4097: CA_Esfalka  (вторые: CA_SV98) — по плагину
+4099: CA_13x_Scope  (вторые: CA_AWM_Scope) — по плагину
+4101: CA_Snowfox  (вторые: CA_AWM) — по плагину
+7035: CA_Sentry_Low_Hostile  (вторые: M61_Box) — по плагину
+9209: AIR_Pants_2  (вторые: Mag_C-250) — по плагину
+9210: AIR_Shirt  (вторые: Avia_Ptur) — по плагину
+9211: AIR_Pants  (вторые: Avia_PturRokets) — по плагину
+9213: AIR_Vest  (вторые: Mag_Fab-500) — по плагину
+11000: backpack  (вторые: PS_Cobalt_Crystal_Stack) — по плагину
+11001: hat  (вторые: PS_MLRS_TOW) — по плагину
+11156: musicians4pnv  (вторые: Book_Black) — по плагину
+11157: musicians4s2  (вторые: Book_Blue) — по плагину
+19210: OFZ-BT-Ammo  (вторые: PS_Hole_Wood) — по плагину
+19211: BPS-Ammo  (вторые: PS_Garage_Wood) — по плагину
+19502: Player_Fixed  (вторые: PS_Claim_Generator) — по плагину
+19504: Rocket_ammo  (вторые: PS_Raw_Adamantine) — по плагину
+19506: Pulgun_ammo  (вторые: PS_Hatch_Metal_Red) — по плагину
+19600: M2_Mag  (вторые: PS_Anvil) — по плагину
+19910: 23mmAZP  (вторые: PS_Wooden_Table_0) — по плагину
+19950: 9M113_ammo  (вторые: PS_Deagle_Long) — по плагину
+19951: 12.7mm Kord  (вторые: PS_Deagle_Scope) — по плагину
+19952: 20mm Box (AP)  (вторые: PS_Counter_Wood) — по плагину
+19953: 30mm Box (AP)  (вторые: PS_Pallet_Placable) — по плагину
+19955: 73MM HEAT  (вторые: PS_Nailgun_Mag) — по плагину
+19956: 125MM APFSDS  (вторые: PS_Aquarium_0) — по плагину
+19957: 125MM HEAT  (вторые: PS_Rug_Placable_0) — по плагину
+19958: GBU-12_HE  (вторые: PS_Rug_Placable_1) — по плагину
+19959: S8_24  (вторые: PS_Gas_Plastic_Industrial) — по плагину
+19960: KH59_Ammo  (вторые: PS_Stiletto) — по плагину
+19970: M242_box  (вторые: PS_Wrench_Case_0) — по плагину
+19971: BGM-71D_ammo  (вторые: PS_Seed_Money) — по плагину
+19972: stinger_ammo  (вторые: PS_N4B1) — по плагину
+19973: 120MM APFSDS  (вторые: PS_PDA_0) — по плагину
+19974: 120MM HEAT  (вторые: PS_Shirt_9) — по плагину
+19975: M2HB_box  (вторые: PS_Military_Helmet_Soviet_Tac) — по плагину
+20102: Player_Fixed  (вторые: Tan_CPC_2_AK) — не определить, взят первый по алфавиту
+23001: Carpat_Vityaz  (вторые: Armor_Plate_(IIIA)) — по плагину
+24002: EU_Passport  (вторые: Armor_Plate_(III)) — по плагину
+24024: Tan_Aggressor_1  (вторые: Tan_Slim_Fit_2) — не определить, взят первый по алфавиту
+24124: GZHEL_1_Tan_II  (вторые: Tan_Rantz_72_1) — не определить, взят первый по алфавиту
+24201: smoke_grenades  (вторые: SPC_1_Multicam_III) — по плагину
+24202: Leoprad_OF Ammo  (вторые: SPC_1_Multicam_IV) — по плагину
+24624: Selin_GRN  (вторые: Zhuk_1_PRESS_IIIA_(Zhuk_Rig)) — не определить, взят первый по алфавиту
+25205: Magazine_Aircraft  (вторые: Magazine_MG) — по плагину
+31501: Downtown_Door_Glass_Store  (вторые: Downtown_Door_Store) — по плагину
+31502: Downtown_Door_Wood_Maple  (вторые: Downtown_Door_Wood) — по плагину
+31503: Downtown_Door_Metal_Simple  (вторые: Downtown_Door_Metal) — по плагину
+33000: vestG  (вторые: SHD-TECH) — по плагину
+33001: maskG  (вторые: SHD-BIOH) — по плагину
+33002: helmetG  (вторые: SHD-TAD-SH-GE) — по плагину
+33003: shirtG  (вторые: SHD-TAD-SH-BK) — по плагину
+33004: pantsG  (вторые: SHD-TAD-SH-BR) — по плагину
+37450: Cap_USEC_Tan  (вторые: Ikona) — по плагину
+37451: Cap_BEAR_Black  (вторые: Medbox) — по плагину
+37452: Cap_BEAR_Green  (вторые: AntiGlist) — по плагину
+37453: Cap_Police  (вторые: AntiGlistBottle) — по плагину
+37454: Cap_BOSS  (вторые: Obezbol) — по плагину
+37455: Cap_Army_Beige  (вторые: Antipsih) — по плагину
+37456: Cap_Army_Black  (вторые: Uspokoitel) — по плагину
+37470: MBSS_Backpack  (вторые: RusFlag) — по плагину
+37471: Pilgrim_Backpack  (вторые: UsaFlag) — по плагину
+40002: Rio_Glasses_0  (вторые: 5x_Optic) — по плагину
+40003: Rio_Glasses_1  (вторые: M791) — по плагину
+40004: Rio_Glasses_2  (вторые: TOW_II_Tube) — по плагину
+40010: Rio_Fedora_Blue  (вторые: M792) — по плагину
+40012: Rio_Fedora_Orange  (вторые: M7_Bombs_8x) — по плагину
+40018: Rio_Panama_Black  (вторые: 3x_Optic) — по плагину
+40019: Rio_Panama_Blue  (вторые: 8x_Optic) — по плагину
+40024: Rio_Panama_Red  (вторые: 50cal_BMG) — по плагину
+40025: Rio_Panama_White  (вторые: APFSDS) — по плагину
+40027: Rio_Police_Military_Beret  (вторые: HEAT_MP) — по плагину
+40028: Rio_Police_Military_Pants  (вторые: HE_T) — по плагину
+40042: Rio_Bandana_Red_1  (вторые: OFT) — по плагину
+41200: Pizzabox_Goat_4  (вторые: Detonator) — по плагину
+41201: Pizzabox_Goat_3  (вторые: c4) — по плагину
+49130: Charcoal  (вторые: Multicam_Helmet) — по плагину
+49631: PM_Cassette_Tape_30  (вторые: A-10 Rocket Ammo) — по плагину
+50100: Hat  (вторые: DG_Wiesel_Cannon_0) — по плагину
+50101: Mask  (вторые: DG_Wiesel_Sight_0, Wiesel_Sight_0) — по плагину
+50102: Pants  (вторые: DG_Wiesel_Cannon_HE) — по плагину
+50106: Mask  (вторые: Challenger2_Cannon_0) — по плагину
+50107: Pants  (вторые: Challenger2_Cannon_Sight_0) — по плагину
+50108: Shirt  (вторые: Challenger2_Cannon_AP) — по плагину
+50113: Shirt  (вторые: Challenger2_MG) — по плагину
+50114: Vest  (вторые: Challenger2_MG_Box) — по плагину
+50115: Hat  (вторые: Challenger2_Smoke_Launcher) — по плагину
+50116: Mask  (вторые: Challenger2_Smoke_Launcher_Mag) — по плагину
+50117: Pants  (вторые: Challenger2_MG_Sight) — по плагину
+50120: Hat  (вторые: LAV25_Cannon_0) — по плагину
+50121: Mask  (вторые: LAV25_Cannon_AP) — по плагину
+50122: Pants  (вторые: LAV25_Cannon_HE) — по плагину
+50124: Vest  (вторые: Boxer_MG_0) — по плагину
+50125: Hat  (вторые: Boxer_MG_Box) — по плагину
+58003: M855 Ammo Box  (вторые: 5.56 M855 Ammo Box) — по плагину
+58004: M855 Belt  (вторые: 5.56 Belt) — по плагину
+58007: 7N6 Ammo Box  (вторые: 5.45 7N6 Ammo Box) — по плагину
+58008: 7N6 Packet  (вторые: 5.45 Packet) — по плагину
+58011: M45A1  (вторые: M45A1 MEUSOC) — по плагину
+58013: M230gr Ammo Box  (вторые: 45 ACP Ammo Box) — по плагину
+58016: PS gzh Ammo Box  (вторые: 7.62x39 Ball Ammo Box) — по плагину
+58017: PS gzh Packet  (вторые: 7.62 57-N-231 Ball 20rnd Packet) — по плагину
+58030: 7N1 Packet  (вторые: 7.62x54R Packet) — по плагину
+58034: M80A1 Ammo Box  (вторые: 7.62x51 Ammo Box) — по плагину
+58035: M80A1 Belt  (вторые: 7.62x51 Belt) — по плагину
+58053: SCAR SSR  (вторые: SCAR DMR) — по плагину
+58057: SKS  (вторые: SKS DMR) — по плагину
+58072: P gzh Ammo Box  (вторые: 9x18 Makarov Ammo Box) — по плагину
+58092: M882 FMJ Ammo Box  (вторые: 9mm FMJ Ammo Box) — по плагину
+58097: AW  (вторые: L118A2) — по плагину
+58164: SX FMJ Ammo Box  (вторые: 4.6mm FMJ SX Ammo Box) — по плагину
+58173: AWM  (вторые: L115A3) — по плагину
+58175: SWISSP Ammo Box  (вторые: 338 LM Ammo Box) — по плагину
+58195: SP5 Box  (вторые: 9x39mm SP-5 Box) — по плагину
+58205: 12G Buck Ammo Box  (вторые: 12 Gauge Buck Ammo Box) — по плагину
+58220: RG6  (вторые: RG-6 MGL) — по плагину
+58230: M33 Ball Ammo Box  (вторые: 50 BMG Ammo Box) — по плагину
+58235: 7N34 Ammo Box  (вторые: 12.7x108 Ammo Box) — по плагину
+58244: M1022 LRS Ammo Box  (вторые: 50 BMG AP Ammo Box) — по плагину
+58252: 92FS  (вторые: Beretta 92FS) — по плагину
+58262: M995 Ammo Box  (вторые: 5.56 M856 Ammo Box) — по плагину
+58263: M995 Belt  (вторые: 5.56 Belt M856) — по плагину
+58269: MT180gr Ammo Box  (вторые: 44 Mag Ammo Box) — по плагину
+58275: M855 Carton  (вторые: 5.56 Carton) — по плагину
+58276: M855 Clip  (вторые: 5.56 Clip) — по плагину
+58277: M995 Carton  (вторые: 5.56 Carton M856) — по плагину
+58278: M995 Clip  (вторые: 5.56 Clip M856) — по плагину
+58279: 7-BZ-1 Ammo Box  (вторые: 12.7x108 AP Ammo Box) — по плагину
+58294: Vector .45  (вторые: Vector 45) — по плагину
+58303: SS195LF Ammo Box  (вторые: 5.7 SS195LF Ammo Box) — по плагину
+58318: 12G Slug Ammo Box  (вторые: 12 Gauge Slug Ammo Box) — по плагину
+58331: AR15A3  (вторые: AP4) — по плагину
+58340: AR15A3 FA  (вторые: AP4 Mod) — по плагину
+58356: SP6 Box  (вторые: 9x39mm SP-6 Box) — по плагину
+58357: M33 Ball Belt  (вторые: 50 BMG Belt) — по плагину
+58358: M1022 LRS Belt  (вторые: 50 BMG Belt AP) — по плагину
+58359: 7N34 Belt  (вторые: 12.7x108 Belt) — по плагину
+58360: 7-BZ-1 Belt  (вторые: 12.7x108 Belt AP) — по плагину
+58391: 44 Mag OMA Ammo Box  (вторые: 44Mag OMA Ammo Box) — по плагину
+58464: 7N1 Ammo Box  (вторые: 7N1 Ball Ammo Box) — по плагину
+58465: 7N1 Belt  (вторые: 7.62x54R Belt) — по плагину
+58469: Igolnik Packet  (вторые: 7T3M 30rnd Packet) — по плагину
+58474: 7N23 Packet  (вторые: 57-N-231P 20rnd Packet) — по плагину
+58513: Vector 9  (вторые: Vector 9mm) — по плагину
+58517: M1906 Packet  (вторые: M1906 Ball 30rnd Packet) — по плагину
+58523: AP 6.3 Ammo Box  (вторые: 9mm AP 6.3 Ammo Box) — по плагину
+58546: P gl Packet  (вторые: 7.62x25 Tokarev Packet) — по плагину
+58568: 50 AE HP Ammo Box  (вторые: 50AE HP Ammo Box) — по плагину
+58570: 50 AE OMA Ammo Box  (вторые: 50AE OMA Ammo Box) — по плагину
+58572: SP-11 Ammo Box  (вторые: SP11 Ammo Box) — по плагину
+58573: SP-10 Ammo Box  (вторые: SP10 Ammo Box) — по плагину
+58574: Zubilo Ammo Box  (вторые: SP-13 Ammo Box) — по плагину
+58636: FAL  (вторые: FN FAL) — по плагину
+58639: L1A1  (вторые: L1A1 DMR) — по плагину
+58664: 93 Raffica  (вторые: Beretta 93 Raffica) — по плагину
+58673: 158gr FMJ Ammo Box  (вторые: 357 Mag Ammo Box) — по плагину
+58675: BSAP Ammo Box  (вторые: 357 Mag Semi Ammo Box) — по плагину
+58677: M80A1 5rnd  (вторые: 7.62x51 5rnd) — по плагину
+58769: M134 Belt M80A1  (вторые: M134 Belt) — по плагину
+58792: Enforcer Ammo Box  (вторые: 300BO Ammo Box) — по плагину
+58806: ACR  (вторые: Remington ACR) — по плагину
+58917: FAMAS F1 Infantry  (вторые: FAMAS F1) — по плагину
+58934: 12G Mag Ammo Box  (вторые: 12 Gauge Army Ammo Box) — по плагину
+58937: FAL 50.63  (вторые: FN FAL 50.63) — по плагину
+58977: SKS OP  (вторые: OP-SKS DMR) — по плагину
+58983: SKS Tapco  (вторые: Tapco SKS DMR) — по плагину
+58987: Auto Ball Ammo Box  (вторые: 32 ACP Ammo Box) — по плагину
+59021: DAP92 Ammo Box  (вторые: DAP92 Box) — по плагину
+59061: LG4  (вторые: LG4 MGL) — по плагину
+59065: CSLR4  (вторые: CSLR4 Sniper) — по плагину
+59088: CSLR3  (вторые: CSLR3 Sniper) — по плагину
+59097: Type 89  (вторые: Howa Type 89) — по плагину
+59098: Type 89-F  (вторые: Howa Type 89-F) — по плагину
+59100: Type 89 Tac  (вторые: Howa Type 89 Tactical) — по плагину
+59101: Type 89-F Tac  (вторые: Howa Type 89-F Tactical) — по плагину
+59104: Type 20  (вторые: Howa Type 20) — по плагину
+59210: PS12 Ammo Box  (вторые: STs130 Ammo Box) — по плагину
+59233: TVCM Ammo Box  (вторые: 6.8 TVCM Ammo Box) — по плагину
+59250: Vector 45 CRB  (вторые: Vector CRB) — по плагину
+59251: Vector 9 SDP  (вторые: Vector SDP) — по плагину
+59258: 45 ACP RIP Ammo Box  (вторые: 45ACP RIP Ammo Box) — по плагину
+59277: 7N23 Ammo Box  (вторые: 7.62x39 Tracer Ammo Box) — по плагину
+59291: DBU141 Box  (вторые: DBX10 Box) — по плагину
+59292: DBU141 Belt  (вторые: DBX10 Belt) — по плагину
+59300: 12G Bird Ammo Box  (вторые: 12 Gauge Bird Ammo Box) — по плагину
+59317: 12G Frag Ammo Box  (вторые: 12 Gauge Frag Ammo Box) — по плагину
+59320: Flat Lead 14rnd  (вторые: 44 Henry 14rnd) — по плагину
+59321: Flat Lead Packet  (вторые: 44 Henry Packet) — по плагину
+59339: 325gr 6rnd  (вторые: 45-70 Govt 6rnd) — по плагину
+59340: 325gr Packet  (вторые: 4570 Govt Packet) — по плагину
+59398: SPP Box  (вторые: 9x39mm SPP Box) — по плагину
+59404: Igolnik Ammo Box  (вторые: 5.45 7T3M Ammo Box) — по плагину
+59406: AUG HBAR  (вторые: AUG HBAR-T) — по плагину
+59418: Hybrid Ammo Box  (вторые: 277 Fury Ammo Box) — по плагину
+59427: S Patrone Belt  (вторые: 7.92 Mauser Belt) — по плагину
+59461: Ultimax 100 Drum M856  (вторые: Leoprad_BB Ammo) — по плагину
+59475: MK248 Box  (вторые: 300 Win Mag Box) — по плагину
+59483: Hecate Scope AK  (вторые: Leoprad_20mm_Ammo) — по плагину
+59495: SCAR-L Mag 458 SCM  (вторые: Smoke_Ammo_Leopard) — по плагину
+59506: 350grFP Ammo Box  (вторые: 458 SCM SS Ammo Box) — по плагину
+59518: Classic 1rnd  (вторые: 500 Nitro Exp 1rnd) — по плагину
+59519: Classic Ammo Box  (вторые: 500 Nitro Exp Ammo Box) — по плагину
+59524: 20x138B AP Ammo Box  (вторые: 20×138mmB Ammo Box) — по плагину
+59525: 20x138B AT Ammo Box  (вторые: 20×138mmB AT Ammo Box) — по плагину
+59551: S Patrone Pouch  (вторые: 7.92 Mauser Pouch) — по плагину
+59567: M80A1 Packet  (вторые: 7.62x51 Packet) — по плагину
+59576: M33 Ball 1rnd  (вторые: 50 BMG 1rnd) — по плагину
+59577: M1022 LRS 1rnd  (вторые: 50 BMG 1rnd AP) — по плагину
+59580: M33 Ball Ammo Pack  (вторые: 50 BMG Ammo Pack) — по плагину
+59581: M1022 LRS Ammo Pack  (вторые: 50 BMG AP Ammo Pack) — по плагину
+59591: M1162 Box  (вторые: 338 Nor Mag Box) — по плагину
+59642: SKS D  (вторые: SKS China) — по плагину
+59643: Type 63  (вторые: SKS AR) — по плагину
+59682: 260gr Ammo Box  (вторые: 454 Casull JHP Ammo Box) — по плагину
+59695: FAMAS F1  (вторые: FAMAS F1 OG) — по плагину
+59711: 240DT Ammo Box  (вторые: 454 Casull DT Ammo Box) — по плагину
+59735: 12G AP20 Ammo Box  (вторые: 12 Gauge AP20 Ammo Box) — по плагину
+59769: 143gr Ammo Box  (вторые: 65CM Ammo Box) — по плагину
+59770: SCAR SSR 65CM  (вторые: SCAR DMR 65CM) — по плагину
+59782: ETip Ammo Box  (вторые: 65CM ET Ammo Box) — по плагину
+59824: USP 9  (вторые: USP Match) — по плагину
+59830: SS190 Ammo Box  (вторые: 5.7 SS190 Ammo Box) — по плагину
